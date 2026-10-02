@@ -1,0 +1,5 @@
+# app-ads.txt for Tidepool: Block Puzzle
+# Replace pub-XXXXXXXXXXXXXXXX with your AdMob publisher ID: the number in your AdMob app ID
+# (ca-app-pub-1234567890123456~...) becomes pub-1234567890123456. AdMob › Apps › View all apps ›
+# app-ads.txt shows the exact line to copy.
+google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
